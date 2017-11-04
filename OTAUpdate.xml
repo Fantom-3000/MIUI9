@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
-  <RomName>miuipro_v5.1.1_Lenovo_A6010Pro</RomName> <!-- Название прошивки -->
+  <RomName>MIUI9 от MiuiPro</RomName> <!-- Название прошивки -->
   <VersionName>7.11.2</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20170411</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
   <DirectUrl>https://fex.net/get/062500377320/90344116</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
