@@ -6,8 +6,8 @@
             <name>SystemTweakerPRO</name>
             <description>Твики и дополнения</description>
             <published-at>20171106</published-at>
-            <size></size>
-            <download-link>https://github.com/Fantom-3000/MIUI9/master/SystemTweakerPRO.zip</download-link>
+            <size>8</size>
+            <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/SystemTweakerPRO.zip</download-link>
         </addon>         
     </addons>
 </hash>
