@@ -10,7 +10,7 @@
   <FileSize type="integer">137563</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
-  <AddonsURL></AddonsURL>
+  <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
   <Changelog>### Изменения версии MIUI 7.11.5
   1. OTA Updates
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
