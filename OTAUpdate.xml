@@ -7,7 +7,7 @@
   <HttpUrl>https://fex.net/get/458291632845/98156871</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5></CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">137563</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <FileSize type="integer">926302076</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
