@@ -9,13 +9,5 @@
             <size>9170017</size>
             <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/SystemTweakerPRO.zip</download-link>
         </addon>  
-         <addon>
-            <id>1</id>
-            <name>Battary 2300 mAh</name>
-            <description>Отображение размера батареи 2300 мАч</description>
-            <published-at>20171117</published-at>
-            <size>4713923</size>
-            <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/patch_batary_2300mAh.zip</download-link>
-        </addon>         
-    </addons>
+     </addons>
 </hash>
