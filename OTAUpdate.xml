@@ -1,17 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUI9 от MiuiPro</RomName> <!-- Название прошивки -->
-  <VersionName>miuipro_Lenovo_A6010Pro_by_Fantom-3000_7.11.23</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20171123</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://fex.net/get/487869067852/113368704</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://fex.net/get/487869067852/113368704</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.11.30</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20171130</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://fex.net/get/536864101060/127574194</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://fex.net/get/536864101060/127574194</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5></CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">974512904</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <FileSize type="integer">957803887</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
-  <Changelog>### Изменения версии MIUI 7.11.23
-  1. Ничего интересного...
+  <Changelog>### Изменения версии MIUI 7.11.30
+  1. Анимация загрузки (Временно) от BERDICHEV
+  2. Добавлен перевод единиц измерения
+  3. Иконки приложений
+  4. Мелкие исправления и дополнения в патчах
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
