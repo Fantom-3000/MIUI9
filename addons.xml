@@ -10,11 +10,19 @@
             <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/SystemTweakerPRO.zip</download-link>
         </addon>  
         <addon>
-            <id>1</id>
+            <id>2</id>
             <name>Deleting+Xiaomi.zip</name>
             <description>Скрипт удаления сервисов Xiaomi</description>
             <published-at>20171126</published-at>
             <size>127606</size>
+            <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/Deleting%2BXiaomi.zip</download-link>
+        </addon> 
+        <addon>
+            <id>3</id>
+            <name>Dolbi-Atmos</name>
+            <description>Звуковые эффекты</description>
+            <published-at>20171214</published-at>
+            <size>100900000</size>
             <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/Deleting%2BXiaomi.zip</download-link>
         </addon>  
      </addons>
