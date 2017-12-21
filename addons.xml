@@ -19,11 +19,11 @@
         </addon> 
         <addon>
             <id>3</id>
-            <name>Dolbi-Atmos</name>
+            <name>DoLbY-ATMOS</name>
             <description>Звуковые эффекты</description>
             <published-at>20171214</published-at>
             <size>105801318</size>
-            <download-link>https://mega.nz/#!VHISnTbL!LlKHU6ipmRLs3RYMT9Lh9UNL4R-Hz0u4acrAkD62W_c</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/DoLbY_ATMOS.zip/download</download-link>
         </addon>
      </addons>
 </hash>
