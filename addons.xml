@@ -7,7 +7,7 @@
             <description>Твики и дополнения</description>
             <published-at>20171106</published-at>
             <size>9170017</size>
-            <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/SystemTweakerPRO.zip</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/SystemTweakerPRO.zip/download</download-link>
         </addon>  
         <addon>
             <id>2</id>
@@ -15,7 +15,7 @@
             <description>Скрипт удаления сервисов Xiaomi</description>
             <published-at>20171126</published-at>
             <size>127606</size>
-            <download-link>https://github.com/Fantom-3000/MIUI9/raw/master/Deleting%2BXiaomi.zip</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Deleting%2BXiaomi.zip/download</download-link>
         </addon> 
         <addon>
             <id>3</id>
