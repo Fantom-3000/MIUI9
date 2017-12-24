@@ -3,8 +3,8 @@
   <RomName>MIUI9 от MiuiPro</RomName> <!-- Название прошивки -->
   <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
   <VersionNumber type="integer">20171221</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://sourceforge.net/projects/miui9/files/firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://sourceforge.net/projects/miui9/files/firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>cb35e7c72877b758cbfc2ea076cb1746</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
   <FileSize type="integer">826443376</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
@@ -12,7 +12,7 @@
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
   <Changelog>### Изменения версии MIUI 7.12.21
-1. Вырезан Dolby-Atmos. Смотрим в OTA Updates
+1. Вырезан Dolby-Atmos. Смотрим в OTA Дополнения
 2. Восстановлена работа пункта "Наушники и звуковые эффекты"
 3. SuperSU по умолчанию
 4. Возвращены старые настройки статус бара
