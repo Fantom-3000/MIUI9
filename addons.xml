@@ -7,7 +7,7 @@
             <description>Твики и дополнения</description>
             <published-at>20171106</published-at>
             <size>9170017</size>
-            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/SystemTweakerPRO.zip/download</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/SystemTweakerPRO.zip/download</download-link>
         </addon>  
         <addon>
             <id>2</id>
@@ -15,7 +15,7 @@
             <description>Скрипт удаления сервисов Xiaomi</description>
             <published-at>20171126</published-at>
             <size>127606</size>
-            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Deleting%2BXiaomi.zip/download</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/Deleting%2BXiaomi.zip/download</download-link>
         </addon> 
         <addon>
             <id>3</id>
@@ -23,7 +23,7 @@
             <description>Звуковые эффекты</description>
             <published-at>20171214</published-at>
             <size>105801318</size>
-            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/DoLbY_ATMOS.zip/download</download-link>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/DoLbY_ATMOS.zip/download</download-link>
         </addon>
      </addons>
 </hash>
