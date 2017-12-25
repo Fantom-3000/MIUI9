@@ -8,9 +8,17 @@
             <published-at>20171106</published-at>
             <size>9170017</size>
             <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/SystemTweakerPRO.zip/download</download-link>
-        </addon>  
+        </addon>
         <addon>
             <id>2</id>
+            <name>Kernel Auditor 0.9.73.3</name>
+            <description>Управление настройками ядра</description>
+            <published-at>20171226</published-at>
+            <size>3845808</size>
+            <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/Kernel_Auditor_0.9.73.3.zip/download</download-link>
+        </addon>
+        <addon>
+            <id>3</id>
             <name>Deleting+Xiaomi.zip</name>
             <description>Скрипт удаления сервисов Xiaomi</description>
             <published-at>20171126</published-at>
@@ -18,7 +26,7 @@
             <download-link>https://sourceforge.net/projects/miui9-otaupdate/files/Addons/Deleting%2BXiaomi.zip/download</download-link>
         </addon> 
         <addon>
-            <id>3</id>
+            <id>4</id>
             <name>DoLbY-ATMOS</name>
             <description>Звуковые эффекты</description>
             <published-at>20171214</published-at>
