@@ -1,20 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUI9 от MiuiPro</RomName> <!-- Название прошивки -->
-  <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20171221</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.21.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.28</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20171228</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.28.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.28.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>cb35e7c72877b758cbfc2ea076cb1746</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">826443376</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <CheckMD5>f4beae37c71359ecb23d2668d4cf2b54</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">800342578</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
-  <Changelog>### Изменения версии MIUI 7.12.21
-1. Вырезан Dolby-Atmos. Смотрим в OTA Дополнения
-2. Восстановлена работа пункта "Наушники и звуковые эффекты"
-3. SuperSU по умолчанию
-4. Возвращены старые настройки статус бара
+  <Changelog>### Изменения версии MIUI 7.12.28
+    <bold>Добавлено:</bold>
+- Возвращена прокрутка рабочих столов
+Обновлено:
+- Данные о праздниках на 2018
+- Некоторые патчи
+Исправлено:
+- Отображение количества файлов при открытии проводника
+- Определение местоположения на некоторых устройствах
+- Перевод
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
