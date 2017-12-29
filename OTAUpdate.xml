@@ -7,7 +7,7 @@
   <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_7.12.28.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
   <CheckMD5>f4beae37c71359ecb23d2668d4cf2b54</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">800342578</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <FileSize type="integer">839175372</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
