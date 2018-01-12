@@ -1,18 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>MIUI9 от MiuiPro</RomName> <!-- Название прошивки -->
-  <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.4</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
-  <VersionNumber type="integer">20180104</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-  <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.4.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-  <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.4.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
+  <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.11</VersionName> <!-- Версия прошивки и её название при скачивании, без пробелов -->
+  <VersionNumber type="integer">20180111</VersionNumber> <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
+  <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.11.zip/download</DirectUrl> <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
+  <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.11.zip/download</HttpUrl> <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
   <Android>5.1.1</Android> <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
-  <CheckMD5>99442f10149669b713514c390e129d4f</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-  <FileSize type="integer">830891622</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
+  <CheckMD5>96f356a75265759c31ecab10fda8d9aa</CheckMD5> <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
+  <FileSize type="integer">832988774</FileSize>  <!-- Размер скачиваемого файла, в байтах -->
   <Developer>Fantom-3000</Developer> <!-- Ник, имя разработчика'ов -->
   <AddonCount>1</AddonCount>
   <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml</AddonsURL>
-  <Changelog>### Изменения версии MIUI 8.1.4
-    1. Возвращена старая бутанимация
-    ... и всё.
+  <Changelog>### Изменения версии MIUI 8.1.11
+    ---------
+    Добавлено:
+    Отключение системных приложений в безопасности
+    ---------
+    Обновлено:
+    GooglePlay
+    Некоторые патчи
+    Перевод
+    ----------------
+    Добавлено Xiaomi:
+    Быстрый набор в звонилке
 </Changelog> <!-- Список изменений, новой версии прошивки, пишем что нужно -->
 </ROM>
