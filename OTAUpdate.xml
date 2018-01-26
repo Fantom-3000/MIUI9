@@ -4,25 +4,25 @@
     <RomName>MIUI9 от MiuiPro
         </RomName> 
     <!-- Версия прошивки и её название при скачивании, без пробелов -->
-    <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.18
+    <VersionName>miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.25
         </VersionName>
     <!-- Версия прошивки для ota, в новой версии ставить версию больше 20160203 -->
-    <VersionNumber type="integer">20180118
+    <VersionNumber type="integer">20180125
         </VersionNumber> 
     <!-- Прямая ссылка на файл, для скачивания, лучше использовать прямую -->
-    <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.18.zip/download
+    <DirectUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.25.zip/download
         </DirectUrl> 
     <!-- Ссылка на файл, для скачивания через браузер, лучше использовать прямую -->
-    <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.18.zip/download
+    <HttpUrl>https://sourceforge.net/projects/miui9-otaupdate/files/Firmware/miuipro_v5.1.1_A6010Pro_by_Fantom-3000_8.1.25.zip/download
         </HttpUrl> 
     <!-- Версия android, смотреть в buld.prop или настройках прошивки -->
     <Android>5.1.1
         </Android> 
     <!-- Контрольный md5 размер файла, для сравнения, полноценности скачаного файла -->
-    <CheckMD5>e9c562ebd4bf8e1f80a35f8eeb4c41d5
+    <CheckMD5>f9e575eb8b310fa30c1bd295adf976f5
         </CheckMD5> 
     <!-- Размер скачиваемого файла, в байтах без пробелов-->
-    <FileSize type="integer">836973363
+    <FileSize type="integer">850814566
         </FileSize>  
     <!-- Ник, имя разработчика'ов -->
     <Developer>Fantom-3000
@@ -34,30 +34,20 @@
     <AddonsURL>https://raw.githubusercontent.com/Fantom-3000/MIUI9/master/addons.xml
         </AddonsURL>
     <!-- Список изменений, новой версии прошивки -->
-    <Changelog>### Изменения версии MIUI 8.1.18
-    ---------
-    От себя:
-    Ядро - Pandora_Kernel_v6.3_3.10.89
-    Бутанимация
-    ---------
-    От команды MiuiPro
-    Добавлено:
-    Возвращен счетчик уведомлений
-    ---------
-    Обновлено:
-    Погода
-    GooglePlay
-    WebViewGoogle
-    Некоторые патчи
-    Перевод
-    ---------
-    Исправлено:
-    Убрали китайскую птичку при загрузке
-    ---------
-    Добавлено Xiaomi:
-    Новая функция в Галерее «Освободить пространство»
-    Карусель обоев слева в ярлыках на экране блокировки
-    Обновлены звуки
-    Новая анимация для жестов в полноэкранном режиме
+    <Changelog>### Изменения версии MIUI 8.1.25
+----------
+Изменения от команды MiuiPro:
+----------
+Добавлено:
+Еще один стиль статус бара
+Новая тема
+----------
+Обновлено:
+Play Market
+BusyBox
+WebViewGoogle
+Погода
+Некоторые патчи
+Перевод
     </Changelog>
 </ROM>
